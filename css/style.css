@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 10;
+}
+body{
+    font-size: 20px;
+    background-color:#ffb31a;
+}
+
+
+/* Header **/
+header{
+     padding: 25px;
+     margin: 0px; 
+     background-color:#ffffff;
+     
+
+}
+
+footer{
+    padding: 25px;
+    background-color:white;
+    text-align: center;
+}
+h1 {
+    color:#110b01;
+    
+}
